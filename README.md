@@ -1,2 +1,2 @@
-# C-Unity-Scripts
-This repository contains a list C# Unity scripts that I've written while playing with Unity3d
+# C# & Unity Scripts
+A repo consists of C# and Unity scripts that I've written in Unity3d while working developing a VR/AR (Virtual Reality/Augmented Reality) model
