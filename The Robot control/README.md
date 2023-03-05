@@ -1,9 +1,12 @@
 # The Robot Control Assignment
 
 
-Part of my uni project for the Programming course. In this assignment I will be required to control the movement of a robot arm which moves blocks from a “source” pile to a “target” pile. 
+Part of my uni project for the Programming course. In this assignment I am required to build an application to control the movement of a robot arm which moves blocks from a “source” pile to a “target” pile. 
 
-Written in Java and run with Eclipse
+There are also obstacles between the source and target piles which the robot arm needs to avoid whilst 
+transporting the blocks and the blocks themselves can be of varying sizes. 
+
+This application is written in Java and run in Eclipse.
 
 ## How to run
 
