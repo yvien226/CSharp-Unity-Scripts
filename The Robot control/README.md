@@ -19,4 +19,4 @@ To run in Eclipse, select run --> Run configurations, give it a name "Robot" the
 
 ## Screenshot
 
-![](https://github.com/yvien226/Gaming/blob/main/The%20Robot%20Control/image/screeenshot_robotcontrol.png)
+![](https://github.com/yvien226/Gaming/blob/master/The%20Robot%20control/image/screeenshot_robotcontrol.PNG)
